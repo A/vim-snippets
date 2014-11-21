@@ -1,7 +1,9 @@
 ## My Personal Snipmate Snippets
 
 Because of buthurt for unused mess from `vim-snippets`. It's my very own
-very imho snippets. Don't hate me if it's not respecting for your opinion :D
+very imho snippets. Don't hate me if I don't respecting for your opinion :D
+
+Based on [honza/vim-snippets](https://github.com/honza/vim-snippets).
 
 ## Installation
 
